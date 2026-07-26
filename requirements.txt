@@ -1,0 +1,19 @@
+# Dependencias del Proyecto
+
+# NOTA: Este proyecto NO requiere dependencias externas
+# Solo utiliza la biblioteca estándar de Python
+
+# Versión requerida:
+python>=3.8
+
+# Bibliotecas utilizadas (todas están incluidas en Python):
+# - logging (manejo de logs)
+# - datetime (gestión de fechas)
+# - enum (enumeraciones para estados)
+# - abc (clases abstractas)
+# - os (operaciones del sistema de archivos)
+
+# Para instalar este proyecto:
+# 1. Clonar el repositorio
+# 2. No es necesario ejecutar 'pip install' ya que no hay dependencias externas
+# 3. Ejecutar: python main.py
